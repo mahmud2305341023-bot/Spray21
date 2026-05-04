@@ -76,7 +76,7 @@ Make sure PHP, Composer, and MySQL are installed. Create a database before runni
 
 ## 👨‍💻 Author
 
-Md. Saiful Islam
+Md. Sohan Mahmud
 
 ---
 
